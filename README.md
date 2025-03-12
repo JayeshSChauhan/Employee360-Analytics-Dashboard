@@ -29,6 +29,6 @@ Employee360 Analytics Dashboard is an interactive Power BI dashboard designed to
 - **Product Trends:** Analyzes product retention and attrition
 - **Sell Insights:** Highlights sell distribution
 
-- Use `Project Summary.pdf` for better understanding.
+**Use `Project Summary.pdf` for better understanding**
 
 JAYESH S CHAUHAN
